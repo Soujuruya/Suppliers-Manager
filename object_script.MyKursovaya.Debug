@@ -1,0 +1,10 @@
+debug/MyKursovaya_resource_res.o
+debug/addnewsuplier.o
+debug/main.o
+debug/mainwindow.o
+debug/mdichild.o
+debug/mytablemodel.o
+debug/qrc_icons.o
+debug/moc_addnewsuplier.o
+debug/moc_mainwindow.o
+debug/moc_mytablemodel.o
